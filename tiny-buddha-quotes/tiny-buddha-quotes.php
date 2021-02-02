@@ -1,4 +1,4 @@
-<?php
+<?html
 /*
 Plugin Name: Tiny Buddha Quotes
 Plugin URI: http://tinybuddha.com/quote-widget/
